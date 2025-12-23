@@ -1,0 +1,24 @@
+# vcpkg - package manager (too large to store in repo)
+vcpkg/
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# OS files
+Thumbs.db
+.DS_Store
+
