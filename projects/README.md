@@ -61,3 +61,4 @@ colmap.exe stereo_fusion --workspace_path workspace\dense --output_path output\f
 - `.obj` - 3D mesh
 - `.nvm` - VisualSFM format
 
+

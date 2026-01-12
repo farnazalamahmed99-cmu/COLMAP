@@ -1,6 +1,10 @@
 # vcpkg - package manager (too large to store in repo)
 vcpkg/
 
+# COLMAP workspace (generated files)
+projects/workspace/
+projects/output/
+
 # Build directories
 build/
 cmake-build-*/
@@ -21,5 +25,6 @@ cmake-build-*/
 # OS files
 Thumbs.db
 .DS_Store
+
 
 
