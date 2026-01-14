@@ -1,0 +1,30 @@
+# ULTRRA Challenge 2025 - Task 01 Reconstruction Summary
+# Generated: 2026-01-14
+
+## Dataset Info
+Task: t01_v09_s00_r01_ImageDensity_WACV_dev_A01
+Images: 80
+Challenge: Camera Calibration / Pose Estimation
+
+## Sparse Reconstruction (COLMAP)
+- Images Registered: 79/80 (98.75%)
+- 3D Points: 19,295
+- Feature Matching Time: ~47 minutes
+- Reconstruction Time: ~1.5 minutes
+
+## Dense Reconstruction (OpenMVS)
+- Dense Points: 12,897,583
+- Depth Maps: 79
+- Processing Time: ~6 hours 18 minutes
+
+## Output Files
+- cameras.txt: Camera intrinsic parameters (80 cameras)
+- frames.txt: Frame information
+- points3D.txt: 3D point cloud with colors
+- rigs.txt: Camera rig configuration
+
+## Tools Used
+- COLMAP 3.12.6 (with CUDA 13.0)
+- OpenMVS 2.1.0 (CPU version with OpenMP)
+- MeshLab for visualization
+

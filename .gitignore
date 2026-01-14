@@ -1,9 +1,13 @@
 # vcpkg - package manager (too large to store in repo)
 vcpkg/
 
-# COLMAP workspace (generated files)
+# COLMAP workspace (generated files - too large)
 projects/workspace/
-projects/output/
+
+# Large output files (keep small text files)
+projects/output/*/images.txt
+projects/output/*/*.mvs
+projects/output/*/*.ply
 
 # Build directories
 build/
