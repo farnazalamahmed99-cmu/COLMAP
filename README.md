@@ -85,9 +85,7 @@ COLMAP/
 │   ├── README.md                    # This file
 │   └── projects/
 │       ├── README.md                # Workflow guide & commands
-│       ├── FINAL_SUBMISSION_SUMMARY.md  # Complete project report
-│       ├── LINKEDIN_EXPERIENCE.md       # Career materials
-│       └── professor_update_email.txt   # Update template
+│       └── FINAL_SUBMISSION_SUMMARY.md  # Complete project report
 │
 └── 📊 Output (Camera Calibration Results)
     └── projects/output/
@@ -176,9 +174,6 @@ Mapper.abs_pose_min_num_inliers: 10 (vs default 30)
 - [`projects/README.md`](projects/README.md) - Step-by-step workflow guide
 - [`run_colmap.ps1`](run_colmap.ps1) - Interactive processing script
 - [`process_all_tasks.ps1`](process_all_tasks.ps1) - Batch automation
-
-### For Career/Applications
-- [`projects/LINKEDIN_EXPERIENCE.md`](projects/LINKEDIN_EXPERIENCE.md) - Resume bullets, LinkedIn content
 
 ---
 
